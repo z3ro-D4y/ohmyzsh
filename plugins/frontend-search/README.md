@@ -8,7 +8,8 @@ Open your `~/.zshrc` file and enable the `frontend-search` plugin:
 
 ```zsh
 
-plugins=( ... frontend-search)
+## Its not necessary that "..." anymore on this plugin
+plugins=( frontend-search)
 
 ```
 
